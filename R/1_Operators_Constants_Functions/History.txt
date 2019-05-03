@@ -1,0 +1,48 @@
+1+2
+x <- 5
+y <- 4
+z <- 7
+x * y * z
+result <- x * y * z
+result
+ls()
+nums <- 1:10
+nums
+doublednums <- nums * 2
+doublednums
+squarenums <- nums ^ 2
+nums + 1:2
+nums + 1:3
+nums %*% nums
+nums %o% nums
+LETTERS
+letters
+pi
+??constants
+mean(nums)
+median(nums)
+round(pi)
+sample(nums, size = 2, replace = TRUE)
+sample(nums, size = 2, replace = TRUE)
+sort(nums)
+help(sort)
+quickpick <- function(){}
+quickpick <- function(){
+lottonums <- 1:49
+numbers <- sample(lottonums, size = 7, replace = TRUE)
+sort(numbers)
+}
+quickpick
+sample(nums, size = 4, replace = TRUE)
+help(sample)
+quickpick <- function(){
+lottonums <- 1:49
+numbers <- sample(lottonums, size = 7, replace = TRUE)
+sorted <- sort(numbers)
+return(sorted)
+}
+quickpick
+help(function)
+View(quickpick)
+quickpick()
+savehistory("D:/Documents/Humber/2018 Winter/Big_Data_2/Lab1/Lab1/History.txt")
